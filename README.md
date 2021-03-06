@@ -1,6 +1,6 @@
 ### Welcome to Homepage
 
-- 🌈 I’m currently working on Xi'An
+- 🌈 I’m currently working in Xi'An
 - 🌈 I’m currently learning Python / Lua / Golang / C / C++
 - 🌈 How to reach me: zhucebuliaopx@gmail.com
 
