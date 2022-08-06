@@ -1,7 +1,7 @@
 ### Welcome to Homepage
 
 - 🌈 I’m currently working in Xi'An
-- 🌈 I’m currently learning Python / Lua / Nodejs / Golang / C / C++
+- 🌈 I’m currently learning Python / Lua / Golang
 - 🌈 How to reach me: zhucebuliaopx@gmail.com
 
 [![Peng's github stats](https://github-readme-stats.vercel.app/api?username=zhucebuliaopx&theme=solarized-light&show_icons=true)](https://github.com/zhucebuliaopx)
